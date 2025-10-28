@@ -1,4 +1,4 @@
-# Modular AI Agent Prompt - Proof of Concept
+# Modular AI Agent System Prompt - Proof of Concept
 
 This project demonstrates how to build AI agent system prompts using modular, reusable components.
 
